@@ -71,7 +71,7 @@ img {
     background: lightgray;
   }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
 body {
     background: white;
     } 
@@ -80,7 +80,7 @@ body {
     }
 .title {
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: 25px;
+        font-size: 20px;
         color: lightseagreen;
     }
 .display-3 {
