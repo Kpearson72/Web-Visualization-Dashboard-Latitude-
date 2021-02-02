@@ -8,7 +8,10 @@
     ;
 } 
 
-.nav-item {
+
+
+a .nav-item {
+    color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -24,7 +27,6 @@
     font-size: 40px;
     font-weight: 400;
     color: lightseagreen;
-
 }
 
 p {
@@ -43,11 +45,11 @@ p {
     font-size: 30px;
 
     color: lightseagreen;
-
 }
+
 body {
     background: lightgray;
-  }
+}
 
 section {
     background-color: white;
@@ -56,7 +58,7 @@ section {
 .rectangle {
     width: 1500x;
     height: 100px;
-  }
+}
 img {
     
     margin: 5px 10px 0px 0px;
@@ -65,11 +67,11 @@ img {
     background-color: white;
 }
 
-  
+
   /* Every individual box is a different color */
-  .rectangle-1 {
+.rectangle-1 {
     background: lightgray;
-  }
+}
 
 @media (max-width: 800px) {
 body {

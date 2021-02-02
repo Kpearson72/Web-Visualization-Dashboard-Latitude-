@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Landing Page](Resources/assets/images/Landing_Page.png)
+![Landing Page](Landing_Page.png)
 
 ### Before You Begin
 
